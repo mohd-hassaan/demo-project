@@ -1,4 +1,4 @@
 # demo-project
-this is my first Repository.
+This is My First Repository.
 <br>
-Author- Mohd Hassan
+Author - Mohd Hassan
